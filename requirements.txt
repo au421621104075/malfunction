@@ -1,0 +1,7 @@
+Flask
+Flask-Login
+gunicorn
+opencv-python
+numpy
+Pillow
+twilio
